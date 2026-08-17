@@ -1,0 +1,1 @@
+# KS Partners 'sites' repository.
